@@ -42,6 +42,8 @@ AFTER MSE: 17.55893128587233
 
 # Run Python Script
 
+Running it as a script can be a bit slow because it automatically checks if it is a regression task.
+
 ```python
 python MakeGoldenFeature.py -t reg -l label -i train.csv -o goldenfeatures.json
 
