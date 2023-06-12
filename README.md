@@ -1,7 +1,7 @@
 # MakeGoldenFeature
 Auto Feature Engineering, Make Golden Features in Tabular Dataset
 
-This repository mimics mljar's Golde Features Method.
+This repository mimics mljar's Golden Features Method.
 
 It has the advantage of being able to automatically proceed with FeatureEnginering.
 
