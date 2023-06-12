@@ -40,6 +40,12 @@ BEFORE MSE: 24.2911194749736
 AFTER MSE: 17.55893128587233
 ```
 
+# Run Python Script
+
+```python
+python MakeGoldenFeature.py -t reg -l label -i train.csv -o goldenfeatures.json
+```
+
 # Reference
 
 [Golden Features](https://mljar.com/automated-machine-learning/golden-features/)
