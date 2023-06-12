@@ -22,7 +22,6 @@ It working on Tabular Dataset.
 
 The Boston dataset showed the following performance improvements using the Top10 feature.
 
-Top
 ```
 [{'Feature': 'NOX_plus_PTRATIO', 'Score': 0.8822110289465535},
  {'Feature': 'RM_divide_B', 'Score': 0.8669953317836949},
