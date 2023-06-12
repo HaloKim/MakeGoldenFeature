@@ -44,6 +44,11 @@ AFTER MSE: 17.55893128587233
 
 ```python
 python MakeGoldenFeature.py -t reg -l label -i train.csv -o goldenfeatures.json
+
+# -t MLtask
+# -l Label Feature Name
+# -i input csv
+# -o output json
 ```
 
 # Reference
